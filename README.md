@@ -14,7 +14,7 @@ create_tables.py: Clean previous schema and creates tables.
 
 sql_queries.py: All queries used in the ETL pipeline.
 
-<a href=https://github.com/RashaAlamoud/Data-Modeling-with-Postgres/blob/main/etl.py">etl.py</a>: Read JSON logs and JSON metadata and load the data into generated tables.
+<a href=https://github.com/RashaAlamoud/Data-Modeling-with-Postgres/blob/main/etl.py">etl.py</a> : Read JSON logs and JSON metadata and load the data into generated tables.
 
 
 
