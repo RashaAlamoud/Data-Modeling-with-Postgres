@@ -10,9 +10,10 @@ They'd like a data engineer to create a Postgres database with tables designed t
 In this project, you'll apply what you've learned on data modeling with Postgres and build an ETL pipeline using Python. To complete the project, you will need to define fact and dimension tables for a star schema for a particular analytic focus, and write an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL.
 
 # Python scripts
-create_tables.py: Clean previous schema and creates tables.
 
-sql_queries.py: All queries used in the ETL pipeline.
+<a href="https://github.com/RashaAlamoud/Data-Modeling-with-Postgres/blob/main/create_tables.py">create_tables.py</a> : Clean previous schema and creates tables.
+
+<a href="https://github.com/RashaAlamoud/Data-Modeling-with-Postgres/blob/main/sql_queries.py">sql_queries.py</a> : All queries used in the ETL pipeline.
 
 <a href="https://github.com/RashaAlamoud/Data-Modeling-with-Postgres/blob/main/etl.py">etl.py</a> : Read JSON logs and JSON metadata and load the data into generated tables.
 
